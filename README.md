@@ -58,8 +58,8 @@ The application displays movies in a responsive grid layout, making it mobile-fr
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/Ugo-Meinunterricht-Frontend.git
-   cd Ugo-Meinunterricht-Frontend
+   git clone https://github.com/rockspetre/Ugo-MeinUnterricht-Frontend.git
+   cd Ugo-MeinUnterricht-Frontend
 
 
 Install dependencies:
